@@ -53,6 +53,7 @@ HitRate@10 : 0.6698
 NDCG@10    : 0.3964
 ```
 
+
 These metrics measure ranking quality rather than rating prediction.
 
 ---
