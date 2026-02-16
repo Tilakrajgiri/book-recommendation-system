@@ -130,12 +130,7 @@ README.md                # Project documentation
 
 ## 🎯 Purpose
 
-This is a personal machine learning project built to demonstrate:
-
-- Deep understanding of recommender systems
-- Implementation of ranking-based models
-- Evaluation beyond accuracy
-- Professional ML project structuring
+This project demonstrates practical implementation of ranking-based recommender systems using implicit feedback and embedding models.
 
 ---
 
