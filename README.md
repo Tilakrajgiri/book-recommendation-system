@@ -109,14 +109,13 @@ Features:
 
 ## 📂 Project Structure
 
----
+```
+book_recommender.ipynb   # Full pipeline (EDA → Training → Evaluation → CLI)
+requirements.txt         # Dependencies
+.gitignore               # Ignored files
+README.md                # Project documentation
+```
 
-book_recommender.ipynb # Full pipeline (EDA → Training → Evaluation → CLI)
-requirements.txt # Dependencies
-.gitignore # Ignored files
-README.md # Project documentation
-
----
 
 ## 📌 Key Concepts Demonstrated
 
