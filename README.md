@@ -136,8 +136,8 @@ This project demonstrates practical implementation of ranking-based recommender 
 
 ---
 
-## 👤 Author
+## 👤 Author  
 
-Tilak Raj Giri  
+**Tilak Raj Giri**  
 Computer Science Student  
-Machine Learning & Recommender Systems Enthusiast
+AI • Machine Learning • Deep Learning Enthusiast  
