@@ -84,14 +84,14 @@ This helps analyze popularity skew in recommendations.
 
 ## 💻 Interactive Recommendation System
 
----
 
+```
 ===== BOOK RECOMMENDER SYSTEM =====
 1 - Recommend for Random User
 2 - Recommend Similar Books
 3 - Exit
-`
----
+
+```
 
 Features:
 - Random user recommendations
@@ -111,13 +111,13 @@ Features:
 
 ## 📂 Project Structure
 
----
+```
 book_recommender.ipynb   # Full pipeline (EDA → Training → Evaluation → CLI)
 requirements.txt         # Dependencies
 .gitignore               # Ignored files
 README.md                # Project documentation
 
----
+```
 
 ## 📌 Key Concepts Demonstrated
 
