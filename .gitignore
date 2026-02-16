@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Model weights
+bpr_model.pth
+
+# Dataset folder
+data/
+
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
