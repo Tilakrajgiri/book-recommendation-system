@@ -82,13 +82,12 @@ This helps analyze popularity skew in recommendations.
 
 ## 💻 Interactive Recommendation System
 
-The notebook includes a CLI-style interface:
-
+```
 ===== BOOK RECOMMENDER SYSTEM =====
 1 - Recommend for Random User
 2 - Recommend Similar Books
 3 - Exit
-
+```
 
 Features:
 - Random user recommendations
