@@ -1,4 +1,4 @@
-# 📚 Book Recommendation System (BPR Model)
+# Book Recommendation System (BPR Model)
 
 A production-style collaborative filtering recommendation system built using 
 **Bayesian Personalized Ranking (BPR)** and PyTorch.
@@ -7,7 +7,7 @@ This project implements an implicit-feedback recommender system trained on user-
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This system:
 
@@ -21,7 +21,7 @@ This system:
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The model learns:
 
@@ -37,7 +37,7 @@ Bayesian Personalized Ranking (BPR Loss)
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 The model is evaluated using:
 
@@ -58,7 +58,7 @@ These metrics measure ranking quality rather than rating prediction.
 
 ---
 
-## 📈 Dataset Analysis
+## Dataset Analysis
 
 - Users: 35,710  
 - Books: 10,000  
@@ -69,7 +69,7 @@ The dataset is highly sparse, which is typical for recommender systems.
 
 ---
 
-## 🔍 Popularity Bias Analysis
+## Popularity Bias Analysis
 
 The project includes:
 
@@ -82,7 +82,7 @@ This helps analyze popularity skew in recommendations.
 
 ---
 
-## 💻 Interactive Recommendation System
+## Interactive Recommendation System
 
 
 ```
@@ -100,7 +100,7 @@ Features:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - PyTorch
@@ -109,7 +109,7 @@ Features:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 book_recommender.ipynb   # Full pipeline (EDA → Training → Evaluation → CLI)
@@ -119,7 +119,7 @@ README.md                # Project documentation
 
 ```
 
-## 📌 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - Implicit Feedback Learning
 - Negative Sampling
@@ -130,7 +130,7 @@ README.md                # Project documentation
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates practical implementation of ranking-based recommender systems using implicit feedback and embedding models.
 
