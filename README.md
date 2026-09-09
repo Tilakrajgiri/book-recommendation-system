@@ -136,7 +136,7 @@ This project demonstrates practical implementation of ranking-based recommender 
 
 ---
 
-## 👤 Author  
+## Author  
 
 **Tilak Raj Giri**  
 Computer Science Student  
